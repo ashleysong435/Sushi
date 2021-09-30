@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Sushi has an amazing scent that you could smell a mile away!
 Many people like the taste of raw fish, but there could be a specific smell of sushi that makes it more appetizing. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![IMG_1682](https://user-images.githubusercontent.com/91553925/135487270-29514b60-042c-423c-ba2f-7b9c61218f47.JPG)
 
 ```markdown
 Syntax highlighted code block
