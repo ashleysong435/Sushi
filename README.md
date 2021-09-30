@@ -1,10 +1,11 @@
-## This is an introduction to a lot of Random things!!!
+## All about the amazing varieties of sushi!!!!
 
 You can use the [editor on GitHub](https://github.com/ashleysong435/RandomTopic/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Sushi has an amazing scent that you could smell a mile away!
+Many people like the taste of raw fish, but there could be a specific smell of sushi that makes it more appetizing. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -12,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Sushi has an amazing scent
-<p>You could totally know the specific scent of sushi just by smelling it!!!</p>
++
 ## Header 2
 ### Header 3
 
