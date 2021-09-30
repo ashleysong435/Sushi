@@ -7,15 +7,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Sushi has an amazing scent that you could smell a mile away!
 Many people like the taste of raw fish, but there could be a specific smell of sushi that makes it more appetizing. 
 
-![IMG_1682](https://user-images.githubusercontent.com/91553925/135487270-29514b60-042c-423c-ba2f-7b9c61218f47.JPG)
+![IMG_1682](https://user-images.githubusercontent.com/91553925/135487270-29514b60-042c-423c-ba2f-7b9c61218f47.JPG) 
 
+###There are many varieties of sushi to try, and every person has their own favorite out of all the choices to eat.
+-Such as tempura
+-Crab
+-Sashimi
+-Rolls
+-And lots more!!!!!!!!
 ```markdown
 Syntax highlighted code block
 
-# Sushi has an amazing scent
-+
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
