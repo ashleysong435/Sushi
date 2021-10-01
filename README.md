@@ -3,6 +3,7 @@
 ### Taste
 If you are skeptical about the taste of raw fish, you should think twice. As anyone would know, sushi has many different flavors. Depending on the certain type of sauce that is paired with sushi, this could bring about new flavors. Personally, in my experience, I love to dip my sushi in soy sauce mixed with a hint of wasabi to give it a sweet but a bit spicy taste. Eating sushi without the sauce is also a great choice, since there are many different kinds of sushi, each with their own unique taste. From rolls to sashimi, sushi could be sweet or savory. It could also be in-between. If you are one of the people who prefer spicy food, there is even a choice of a spicy option for sushi. So even if you don't like the taste of raw fish, with so many choices for sushi to choose from, you might discover a certain taste that you may actually like and eventually love.
 
+![IMG_3101](https://user-images.githubusercontent.com/91553925/135563679-60b2c914-183a-4e02-958d-4d58d8485d67.jpg)
 
 
 ### Texture
