@@ -1,20 +1,10 @@
-## All about the amazing varieties of sushi!!!!
+## Why You Should Choose Sushi as your Next Special Meal!!!!!
 
-You can use the [editor on GitHub](https://github.com/ashleysong435/RandomTopic/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Taste
+If you are skeptical about the taste of raw fish, you should think twice. As anyone would know, sushi has many different flavors. Depending on the certain type of sauce that is paired with sushi, this could bring about new flavors. Personally, in my experience, I love to dip my sushi in soy sauce mixed with a hint of wasabi to give it a sweet but a bit spicy taste. Eating sushi without the sauce is also a great choice, since there are many different kinds of sushi, each with their own unique taste. From rolls to sashimi, sushi could be sweet or savory. It could also be in-between. If you are one of the people who prefer spicy food, there is even a choice of a spicy option for sushi. So even if you don't like the taste of raw fish, with so many choices for sushi to choose from, you might discover a certain taste that you may actually like and eventually love.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Texture
 
-### Sushi has an amazing scent that you could smell a mile away!
-Many people like the taste of raw fish, but there could be a specific smell of sushi that makes it more appetizing. 
-
-![IMG_1682](https://user-images.githubusercontent.com/91553925/135487270-29514b60-042c-423c-ba2f-7b9c61218f47.JPG) 
-
-###There are many varieties of sushi to try, and every person has their own favorite out of all the choices to eat.
--Such as tempura
--Crab
--Sashimi
--Rolls
--And lots more!!!!!!!!
 ```markdown
 Syntax highlighted code block
 
